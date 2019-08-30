@@ -1,7 +1,7 @@
 # HeloStrike
 A simple 2D helicopter survival game. Land the helicopter in the marked area before getting shot.  
 <p align="center">
-  <img src="https://github.com/mmohamedali/HeloStrike/blob/master/images/image3.png"/>
+  <img src="https://github.com/mmohamedali/HeloStrike/blob/master/images/image_scnshot.jpg"/>
 </p>
 
 ## Getting Started
